@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jbmtshali
-- 👀 I’m interested in androin,ios and web application development.
-- 🌱 I’m currently learning coding with swift.
+- 👀 I’m interested in android,ios and web application development.
+- 🌱 I’m currently learning coding with swift from a php and java (android) background.
 - 📫 info@mbi-online.co.za or Call +27 67 616 2007
 
 <!---
